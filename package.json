@@ -1,8 +1,9 @@
 {
-  "name": "webpack-typescript-issue-demo",
+  "name": "typescript-error-demo",
+  "main": "",
   "version": "0.0.1",
-  "description": "",
-  "main": "webpack.config.js",
+  "description": "none",
+  "repository": "none",
   "scripts": {
   },
   "author": "",
