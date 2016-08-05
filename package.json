@@ -1,0 +1,19 @@
+{
+  "name": "webpack-typescript-issue-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^0.8.2",
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "react": "^15.1.0",
+    "react-addons-update": "^15.2.1",
+    "react-dom": "^15.1.0"
+  }
+}
